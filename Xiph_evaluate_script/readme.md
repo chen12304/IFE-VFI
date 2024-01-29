@@ -5,7 +5,7 @@ Some previous scripts compute PSNR and SSIM before quantization, some compute af
 Add the DQBC_xiph.py to DQBC-master/ and run the command below:
 
 ```bash
-python DQBC_xiph.py --config configs/test.yaml --path /data/yourpath/xiph/netflix --gpu_id 1```
+python DQBC_xiph.py --config configs/test.yaml --path /data/yourpath/xiph/netflix --gpu_id 1
 
 **CURE**
 Add the CURE_xiph.py to CURE-main/ and run the command below:
