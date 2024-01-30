@@ -1,4 +1,4 @@
-## script on Xiph
+## scripts on Xiph
 Some previous scripts compute PSNR and SSIM before quantization, some compute after quantization. We re-evaluate on it for fair comparison. PSNR and SSIM are computed after quantization.
 
 **DQBC**
