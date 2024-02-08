@@ -44,8 +44,8 @@ class InputPadder:
         c = [self._pad[2], ht-self._pad[3], self._pad[0], wd-self._pad[1]]
         return x[..., c[0]:c[1], c[2]:c[3]]
 
-# Replace the 'path' with your SNU-FILM dataset absolute path.
-path = '/data/cky/xiph/netflix'
+# Replace the 'path' with your Xiph dataset absolute path.
+path = '/data/xiph/netflix'
 i=0
 savepath = 'xiph/'
 os.makedirs(savepath, exist_ok=True)
