@@ -31,16 +31,27 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 ```
 ## :sparkles:	Training Details
 1. Download [Vimeo90K dataset setuplets](http://toflow.csail.mit.edu/) and orignize the floder as follows:
+
 ── vimeo90k
+
 ├── GT
+
 │ ├── 00001
+
 │ │   ├─0001
+
 │ │   ├─0002
+
 │ │   └── ...
+
 │ ├── 00002
+
 │ └── ...
+
 ├── sep_trainlist.txt
+
 └── sep_testlist.txt
+
 2. Run the following command:
 
 ```shell
