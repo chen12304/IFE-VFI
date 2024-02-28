@@ -119,7 +119,7 @@ class Model:
                 if imgs_down is None:
                     flow, mask = self.net.calculate_flow(imgs, timestep=torch.Tensor([time,time]), af=af, mf=mf)
                 else:
-                    flow, mask = self.net.calculate_flow(imgs_down, time, afd, mfd)
+                    flow, mask = self.net.calculate_flow(imgs_down, torch.Tensor([time,time]), afd, mfd)
                     flow = F.interpolate(flow, scale_factor = 1/down_scale, mode="bilinear", align_corners=False) * (1/down_scale)
                     mask = F.interpolate(mask, scale_factor = 1/down_scale, mode="bilinear", align_corners=False)
                 
