@@ -49,10 +49,12 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <!-- 第五行 -->
   <div align=center>
     <img src="fig/XVFI/5.gif" alt="Image 7" width="49%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/10-1.gif" alt="Image 8" width="49%" style="border: 10px solid #000; border-radius: 4px;"> </div>
+    
 ### Estimated flow
-<img src="fig/ours/12-2.gif" alt="Image 6" width="24%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/13-2.gif" alt="Image 9" width="24%" style="border: 10px solid #000; border-radius: 4px;">
-<img src="fig/ours/14-2.gif" alt="Image 9" width="24%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/10-2.gif" alt="Image 9" width="24%" style="border: 10px solid #000; border-radius: 4px;"> 
-
+<div align = center>
+<img src="fig/ours/12-2.gif" alt="Image 6" width="23%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/13-2.gif" alt="Image 9" width="23%" style="border: 10px solid #000; border-radius: 4px;">
+<img src="fig/ours/14-2.gif" alt="Image 9" width="23%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/10-2.gif" alt="Image 9" width="23%" style="border: 10px solid #000; border-radius: 4px;"> 
+</div>
 
 
 ## :sparkles:	Training Details
