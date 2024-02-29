@@ -58,7 +58,42 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <div align=center>
     <img src="fig/XVFI/5.gif" alt="Image 7" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>XVFI</strong></p>    <img src="fig/ours/10-1.gif" alt="Image 8" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Ours</strong></p>    <img src="fig/ours/10-2.gif" alt="Image 9" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Estimated flow</strong></p></div>
 
-  
+<style>
+  .image-with-title {
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px; /* 可选：为图像之间添加一些间距 */
+  }
+
+  .image-with-title img {
+    width: 32%;
+    border: 2px solid #000;
+    border-radius: 4px;
+    margin-bottom: 5px;
+  }
+
+  .image-with-title p {
+    font-weight: bold;
+  }
+</style>
+
+<div align="center">
+  <div class="image-with-title">
+    <img src="fig/XVFI/5.gif" alt="Image 7">
+    <p><strong>XVFI</strong></p>
+  </div>
+
+  <div class="image-with-title">
+    <img src="fig/ours/10-1.gif" alt="Image 8">
+    <p><strong>Ours</strong></p>
+  </div>
+
+  <div class="image-with-title">
+    <img src="fig/ours/10-2.gif" alt="Image 9">
+    <p><strong>Estimated flow</strong></p>
+  </div>
+</div>
+
 
 
 
