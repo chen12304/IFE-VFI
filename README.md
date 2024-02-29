@@ -37,7 +37,6 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <!-- 第一行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/1.gif" alt="XVFI" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
-    
   </div>
 
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
@@ -49,6 +48,7 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
     <img src="fig/ours/11-2.gif" alt="Image 3" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+
 
   <!-- 第二行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
@@ -66,6 +66,8 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   </div>
 
+
+
   <!-- 第三行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/3.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
@@ -82,6 +84,8 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   </div>
 
+
+
   <!-- 第三行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/4.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
@@ -97,6 +101,8 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
     <img src="fig/ours/14-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+
+
 
   <!-- 第三行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
