@@ -38,61 +38,27 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   <!-- 第二行 -->
   <div align=center>
-    <img src="fig/XVFI/2.gif" alt="Image 4" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/12-1.gif" alt="Image 5" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/12-2.gif" alt="Image 6" width="32%" style="border: 2px solid #000; border-radius: 4px;"></div>
+    <img src="fig/XVFI/2.gif" alt="Image 4" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/12-1.gif" alt="Image 5" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/12-2.gif" alt="Image 6" width="32%" style="border: 10px solid #000; border-radius: 4px;"></div>
 
 
 
   <!-- 第三行 -->
   <div align=center>
-    <img src="fig/XVFI/3.gif" alt="Image 7" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/13-1.gif" alt="Image 8" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/13-2.gif" alt="Image 9" width="32%" style="border: 2px solid #000; border-radius: 4px;"></div>
+    <img src="fig/XVFI/3.gif" alt="Image 7" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/13-1.gif" alt="Image 8" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/13-2.gif" alt="Image 9" width="32%" style="border: 10px solid #000; border-radius: 4px;"></div>
 
 
 
   <!-- 第四行 -->
   <div align=center>
-<img src="fig/XVFI/4.gif" alt="Image 7" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/14-1.gif" alt="Image 8" width="32%" style="border: 2px solid #000; border-radius: 4px;"> <img src="fig/ours/14-2.gif" alt="Image 9" width="32%" style="border: 2px solid #000; border-radius: 4px;"></div>
+<img src="fig/XVFI/4.gif" alt="Image 7" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/14-1.gif" alt="Image 8" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/14-2.gif" alt="Image 9" width="32%" style="border: 10px solid #000; border-radius: 4px;"></div>
 
 
 
   <!-- 第五行 -->
   <div align=center>
-    <img src="fig/XVFI/5.gif" alt="Image 7" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>XVFI</strong></p>    <img src="fig/ours/10-1.gif" alt="Image 8" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Ours</strong></p>    <img src="fig/ours/10-2.gif" alt="Image 9" width="32%" style="border: 2px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Estimated flow</strong></p></div>
+    <img src="fig/XVFI/5.gif" alt="Image 7" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>XVFI</strong></p>    <img src="fig/ours/10-1.gif" alt="Image 8" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Ours</strong></p>    <img src="fig/ours/10-2.gif" alt="Image 9" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Estimated flow</strong></p></div>
 
-<style>
-  .image-with-title {
-    display: inline-block;
-    text-align: center;
-    margin-right: 10px; /* 可选：为图像之间添加一些间距 */
-  }
 
-  .image-with-title img {
-    width: 32%;
-    border: 2px solid #000;
-    border-radius: 4px;
-    margin-bottom: 5px;
-  }
-
-  .image-with-title p {
-    font-weight: bold;
-  }
-</style>
-
-<div align="center">
-  <div class="image-with-title">
-    <img src="fig/XVFI/5.gif" alt="Image 7">
-    <p><strong>XVFI</strong></p>
-  </div>
-
-  <div class="image-with-title">
-    <img src="fig/ours/10-1.gif" alt="Image 8">
-    <p><strong>Ours</strong></p>
-  </div>
-
-  <div class="image-with-title">
-    <img src="fig/ours/10-2.gif" alt="Image 9">
-    <p><strong>Estimated flow</strong></p>
-  </div>
-</div>
 
 
 
