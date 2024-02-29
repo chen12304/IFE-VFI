@@ -35,20 +35,13 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <!-- 第一行 -->
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/XVFI/1.gif" alt="XVFI" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
-     
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/ours/11-1.gif" alt="Image 2" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
+<!-- 第一行 -->
+![XVFI](fig/XVFI/1.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/ours/11-2.gif" alt="Image 3" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
+![Image 2](fig/ours/11-1.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
 
-  </div>
+![Image 3](fig/ours/11-2.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
+
 
 
   <!-- 第二行 -->
