@@ -36,14 +36,8 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   <!-- 第一行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/XVFI/1.gif" alt="Image 4" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
-  </div>  <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/ours/11-1.gif" alt="Image 5" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
-
-  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/ours/11-2.gif" alt="Image 6" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
-
-  </div>
+    <img src="fig/XVFI/1.gif" alt="Image 4" width="100%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/11-1.gif" alt="Image 5" width="100%" style="border: 1px solid #ddd; border-radius: 4px;"><img src="fig/ours/11-2.gif" alt="Image 6" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
+  </div>  
 
 
   <!-- 第二行 -->
