@@ -42,21 +42,21 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   <!-- 第二行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/XVFI/2.gif" alt="Image 4" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"><img src="fig/ours/12-1.gif" alt="Image 5" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/12-2.gif" alt="Image 6" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
+    <img src="fig/XVFI/2.gif" alt="Image 4" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/12-1.gif" alt="Image 5" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/12-2.gif" alt="Image 6" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
 
 
   <!-- 第三行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
-    <img src="fig/XVFI/3.gif" alt="Image 7" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">    <img src="fig/ours/13-1.gif" alt="Image 8" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">    <img src="fig/ours/13-2.gif" alt="Image 9" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
+    <img src="fig/XVFI/3.gif" alt="Image 7" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/13-1.gif" alt="Image 8" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/13-2.gif" alt="Image 9" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
 
 
   <!-- 第四行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
-<img src="fig/XVFI/4.gif" alt="Image 7" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"><img src="fig/ours/14-1.gif" alt="Image 8" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/14-2.gif" alt="Image 9" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
+<img src="fig/XVFI/4.gif" alt="Image 7" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/14-1.gif" alt="Image 8" width="33%" style="border: 1px solid #ddd; border-radius: 4px;"> <img src="fig/ours/14-2.gif" alt="Image 9" width="33%" style="border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
 
