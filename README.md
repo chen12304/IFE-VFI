@@ -56,7 +56,7 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
   <!-- 第五行 -->
   <div align=center>
-    <img src="fig/XVFI/5.gif" alt="Image 7" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>XVFI</strong></p>    <img src="fig/ours/10-1.gif" alt="Image 8" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Ours</strong></p>    <img src="fig/ours/10-2.gif" alt="Image 9" width="32%" style="border: 10px solid #000; border-radius: 4px;">    <p style="text-align: center;"><strong>Estimated flow</strong></p></div>
+    <img src="fig/XVFI/5.gif" alt="Image 7" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/10-1.gif" alt="Image 8" width="32%" style="border: 10px solid #000; border-radius: 4px;"> <img src="fig/ours/10-2.gif" alt="Image 9" width="32%" style="border: 10px solid #000; border-radius: 4px;"> 
 
 
 
