@@ -35,27 +35,25 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <!-- 第一行 -->
-<!-- 第一行 -->
-![XVFI](fig/XVFI/1.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
+  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+    <img src="fig/XVFI/1.gif" alt="Image 4" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
+  </div>  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+    <img src="fig/ours/11-1.gif" alt="Image 5" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-![Image 2](fig/ours/11-1.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
+    <img src="fig/ours/11-2.gif" alt="Image 6" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-![Image 3](fig/ours/11-2.gif){: width="30%" style="border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px;"}
-
+  </div>
 
 
   <!-- 第二行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/2.gif" alt="Image 4" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/12-1.gif" alt="Image 5" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/12-2.gif" alt="Image 6" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
@@ -66,14 +64,10 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/3.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/13-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/13-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
@@ -84,14 +78,10 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/4.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/14-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/14-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
@@ -101,14 +91,10 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/5.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>XVFI</strong></p>
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/10-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>Ours</strong></p>
-  </div>
-  
-  <div style="flex: 0 0 30%; margin-bottom: 10px;">
+  </div><div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/10-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>Estimated flow</strong></p>
   </div>
