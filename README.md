@@ -39,10 +39,12 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
     <img src="fig/XVFI/1.gif" alt="XVFI" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
      
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/11-1.gif" alt="Image 2" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/11-2.gif" alt="Image 3" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
@@ -54,10 +56,12 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
     <img src="fig/XVFI/2.gif" alt="Image 4" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/12-1.gif" alt="Image 5" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/12-2.gif" alt="Image 6" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
@@ -70,10 +74,12 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
     <img src="fig/XVFI/3.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/13-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/13-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
@@ -81,30 +87,34 @@ python demo_Nx.py --number 298 --n 8  # for 8x interpolation
 
 
 
-  <!-- 第三行 -->
+  <!-- 第四行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/4.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/14-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
 
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/14-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
   </div>
 
 
 
-  <!-- 第三行 -->
+  <!-- 第五行 -->
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/XVFI/5.gif" alt="Image 7" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>XVFI</strong></p>
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/10-1.gif" alt="Image 8" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>Ours</strong></p>
   </div>
+  
   <div style="flex: 0 0 30%; margin-bottom: 10px;">
     <img src="fig/ours/10-2.gif" alt="Image 9" width="100%" style="border: 1px solid #ddd; border-radius: 4px;">
     <p style="text-align: center;"><strong>Estimated flow</strong></p>
