@@ -22,7 +22,7 @@ We provide our environment configuration as a reference:
 
 ## :sunglasses:	Play with Demos
 
-1. Download the [model checkpoints](https://pan.baidu.com/s/1OfYew5tnO6_1bIi7tXe3Og)(&code:gi5j) and put the ```ckpt``` folder into the root dir.
+1. Download the [model checkpoints](https://pan.baidu.com/s/1jFX2rORq_7HHJ1baIRw-iA?pwd=gi5j)(&code:gi5j) and put the ```ckpt``` folder into the root dir.
 2. Put two images as 'example/img1.jpg' and 'example/img2.jpg'.
 3. Run the following commands to generate 2x and Nx (arbitrary) frame interpolation demos:
 ```shell
